@@ -1,1 +1,3 @@
 this is my file 2 for git vourse
+
+i have added some text in file 2
